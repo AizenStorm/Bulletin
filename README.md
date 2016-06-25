@@ -1,1 +1,34 @@
 # Spider-Webdev-Task-4
+
+1. Setting up your mysql database:
+
+    a. Create a datbase called 'spiderdb' using root.
+    b. Create a new user named 'joy' by using this command in mysql command line.
+
+        CREATE USER 'joy'@'localhost' IDENTIFIED BY 'password';
+
+    c.Grant the user 'joy' all privileges over 'spiderdb'.
+
+        GRANT ALL PRIVILEGES ON spiderdb. * TO 'joy'@'localhost' IDENTIFIED BY 'password';
+
+2. Copy all the repo files into the 'www' directory of your localhost folder.
+
+3. Open the 'initial_setup.php' page in your browser by typing this in your title bar.
+
+    localhost/initial_setup.php
+
+4. The above page creates the required relations in 'spiderdb'.
+
+5. Click the 'Login Page' Button to start the main project.
+
+6. The initial admin has Username:'admin' and Password:'adminisgod'.
+
+7. Screenshots
+    <img src="screenshot(3).png" style="width:100%;height:200px;">
+    <img src="screenshot(4).png" style="width:100%;height:200px;">
+    <img src="screenshot(5).png" style="width:100%;height:200px;">
+    <img src="screenshot(6).png" style="width:100%;height:200px;">
+    <img src="screenshot(7).png" style="width:100%;height:200px;">
+    <img src="screenshot(8).png" style="width:100%;height:200px;">
+
+
