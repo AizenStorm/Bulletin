@@ -25,5 +25,10 @@
 
 7. Screenshots
     ![Alt text](https://github.com/AizenStorm/Spider-Webdev-Task-4/blob/master/Screenshot%20(3).png?raw=true)
+    ![Alt text](https://github.com/AizenStorm/Spider-Webdev-Task-4/blob/master/Screenshot%20(4).png?raw=true)
+    ![Alt text](https://github.com/AizenStorm/Spider-Webdev-Task-4/blob/master/Screenshot%20(5).png?raw=true)
+    ![Alt text](https://github.com/AizenStorm/Spider-Webdev-Task-4/blob/master/Screenshot%20(6).png?raw=true)
+    ![Alt text](https://github.com/AizenStorm/Spider-Webdev-Task-4/blob/master/Screenshot%20(7).png?raw=true)
+    ![Alt text](https://github.com/AizenStorm/Spider-Webdev-Task-4/blob/master/Screenshot%20(8).png?raw=true)
 
 
