@@ -24,11 +24,11 @@
 6. The initial admin has Username:'admin' and Password:'adminisgod'.
 
 7. Screenshots
-    <img src="screenshot(3).png" style="width:100%;height:200px;">
-    <img src="screenshot(4).png" style="width:100%;height:200px;">
-    <img src="screenshot(5).png" style="width:100%;height:200px;">
-    <img src="screenshot(6).png" style="width:100%;height:200px;">
-    <img src="screenshot(7).png" style="width:100%;height:200px;">
-    <img src="screenshot(8).png" style="width:100%;height:200px;">
+    <img src="Screenshot(3).png" style="width:100%;height:200px;">
+    <img src="Screenshot(4).png" style="width:100%;height:200px;">
+    <img src="Screenshot(5).png" style="width:100%;height:200px;">
+    <img src="Screenshot(6).png" style="width:100%;height:200px;">
+    <img src="Screenshot(7).png" style="width:100%;height:200px;">
+    <img src="Screenshot(8).png" style="width:100%;height:200px;">
 
 
