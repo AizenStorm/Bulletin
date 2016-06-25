@@ -24,6 +24,6 @@
 6. The initial admin has Username:'admin' and Password:'adminisgod'.
 
 7. Screenshots
-    ![Alt text](/Screenshot.png?raw=true)
+    ![Alt text](https://github.com/AizenStorm/Spider-Webdev-Task-4/blob/master/Screenshot%20(3).png?raw=true)
 
 
