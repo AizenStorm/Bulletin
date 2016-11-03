@@ -1,4 +1,4 @@
-# Spider-Webdev-Task-4
+# Bulletin
 
 1. Setting up your mysql database:
 
